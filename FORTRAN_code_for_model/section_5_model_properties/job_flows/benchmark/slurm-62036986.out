@@ -1,0 +1,723 @@
+ intbirth_k          27   13.4831040296833     
+  
+ iter_bi, w, d_bi
+ maxval(a_un)   388.529621765352     
+   1.0000000   2.0018584   0.1000933
+ exdem, h  0.106219579586116       0.952340824539227     
+   1.00541029358283     
+ sum(g_e_o)   13
+ maxval(a_un)   388.515641314939     
+   2.0000000   1.9518117   0.0500466
+ exdem, h   3.28516669172480        2.43688659073912     
+  0.753764127381146     
+ sum(g_e_o)   20
+ maxval(a_un)   388.716360236126     
+   3.0000000   1.9768350   0.0250233
+ exdem, h   1.62859602245768        1.70154623398508     
+  0.877721372526139     
+ sum(g_e_o)   19
+ maxval(a_un)   388.319192339108     
+   4.0000000   1.9893467   0.0125117
+ exdem, h  0.337024687067694        1.14185354095959     
+  0.972447948995978     
+ sum(g_e_o)   18
+ maxval(a_un)   388.424617403001     
+   5.0000000   1.9956025   0.0062558
+ exdem, h  0.110407861452000        1.04479751003109     
+  0.989480958320200     
+ sum(g_e_o)   17
+ maxval(a_un)   388.477171936286     
+   6.0000000   1.9987304   0.0031279
+ exdem, h  1.104648329394697E-002  0.992679308664438     
+  0.998215148458257     
+ sum(g_e_o)   15
+ maxval(a_un)   388.450907787008     
+   7.0000000   1.9971665   0.0015640
+ exdem, h  6.821863224953617E-002   1.02703799159541     
+  0.992889275308698     
+ sum(g_e_o)   17
+ maxval(a_un)   388.464043137314     
+   8.0000000   1.9979485   0.0007820
+ exdem, h  1.738939707858389E-002   1.00486063982014     
+  0.996166082331911     
+ sum(g_e_o)   16
+ maxval(a_un)   388.470608355258     
+   9.0000000   1.9983395   0.0003910
+ exdem, h  1.081330014921944E-002   1.00218383622359     
+  0.996781735680997     
+ sum(g_e_o)   16
+ maxval(a_un)   388.473890350329     
+  10.0000000   1.9985350   0.0001955
+ exdem, h  1.376808557735920E-004  0.997541745947317     
+  0.997481856960803     
+ sum(g_e_o)   16
+ maxval(a_un)   388.475531194440     
+  11.0000000   1.9986327   0.0000977
+ exdem, h  1.344782854306725E-003  0.996944090193513     
+  0.997625936754048     
+ sum(g_e_o)   16
+ maxval(a_un)   388.474710785168     
+  12.0000000   1.9985838   0.0000489
+ exdem, h  4.520059721868641E-004  0.997308873237649     
+  0.997544035781175     
+ sum(g_e_o)   16
+ maxval(a_un)   388.474300570945     
+  13.0000000   1.9985594   0.0000244
+ exdem, h  1.704854064388250E-004  0.997419614459724     
+  0.997513919137418     
+ sum(g_e_o)   16
+ maxval(a_un)   388.474095461436     
+  14.0000000   1.9985472   0.0000122
+ exdem, h  2.561579064197517E-005  0.997476783820472     
+  0.997498602140695     
+ sum(g_e_o)   16
+ maxval(a_un)   388.473992906083     
+  15.0000000   1.9985411   0.0000061
+ exdem, h  4.730990637469290E-005  0.997505461971305     
+  0.997490791138262     
+ sum(g_e_o)   16
+ maxval(a_un)   388.474044183809     
+  16.0000000   1.9985441   0.0000031
+ exdem, h  1.000788858629420E-005  0.997490796582660     
+  0.997494790237397     
+ sum(g_e_o)   16
+ maxval(a_un)   388.474018544958     
+  17.0000000   1.9985426   0.0000015
+ exdem, h  2.880652077941193E-005  0.997498181714893     
+  0.997492769267410     
+ sum(g_e_o)   16
+ maxval(a_un)   388.474031364387     
+  18.0000000   1.9985434   0.0000008
+ exdem, h  2.016758614242775E-005  0.997494781837672     
+  0.997493691975251     
+ sum(g_e_o)   16
+ increase kmax, instst.f90   1.281774717660316E-002
+ decrease amin, instst.f90   3.626155181742063E-003
+ firm debt/gdp   1.83344024285324        1.83344024291036     
+ outliers  7.319267414374053E-011
+ iter_dist           1
+ iter_dist           2
+ iter_dist           3
+ iter_dist           4
+ iter_dist           5
+ iter_dist           6
+ iter_dist           7
+ iter_dist           8
+ iter_dist           9
+ iter_dist          10
+ iter_dist          11
+ iter_dist          12
+ iter_dist          13
+ iter_dist          14
+ iter_dist          15
+ iter_dist          16
+ iter_dist          17
+ iter_dist          18
+ iter_dist          19
+ iter_dist          20
+ iter_dist          21
+ iter_dist          22
+ iter_dist          23
+ iter_dist          24
+ iter_dist          25
+ iter_dist          26
+ iter_dist          27
+ iter_dist          28
+ iter_dist          29
+ iter_dist          30
+ iter_dist          31
+ iter_dist          32
+ iter_dist          33
+ iter_dist          34
+ iter_dist          35
+ iter_dist          36
+ iter_dist          37
+ iter_dist          38
+ iter_dist          39
+ iter_dist          40
+ iter_dist          41
+ iter_dist          42
+ iter_dist          43
+ iter_dist          44
+ iter_dist          45
+ iter_dist          46
+ iter_dist          47
+ iter_dist          48
+ iter_dist          49
+ iter_dist          50
+ iter_dist          51
+ iter_dist          52
+ iter_dist          53
+ iter_dist          54
+ iter_dist          55
+ iter_dist          56
+ iter_dist          57
+ iter_dist          58
+ iter_dist          59
+ iter_dist          60
+ iter_dist          61
+ iter_dist          62
+ iter_dist          63
+ iter_dist          64
+ iter_dist          65
+ iter_dist          66
+ iter_dist          67
+ iter_dist          68
+ iter_dist          69
+ iter_dist          70
+ iter_dist          71
+ iter_dist          72
+ iter_dist          73
+ iter_dist          74
+ iter_dist          75
+ iter_dist          76
+ iter_dist          77
+ iter_dist          78
+ iter_dist          79
+ iter_dist          80
+ iter_dist          81
+ iter_dist          82
+ iter_dist          83
+ iter_dist          84
+ iter_dist          85
+ iter_dist          86
+ iter_dist          87
+ iter_dist          88
+ iter_dist          89
+ iter_dist          90
+ iter_dist          91
+ iter_dist          92
+ iter_dist          93
+ iter_dist          94
+ iter_dist          95
+ iter_dist          96
+ iter_dist          97
+ iter_dist          98
+ iter_dist          99
+ iter_dist         100
+ iter_dist         101
+ iter_dist         102
+ iter_dist         103
+ iter_dist         104
+ iter_dist         105
+ iter_dist         106
+ iter_dist         107
+ iter_dist         108
+ iter_dist         109
+ iter_dist         110
+ iter_dist         111
+ iter_dist         112
+ iter_dist         113
+ iter_dist         114
+ iter_dist         115
+ iter_dist         116
+ iter_dist         117
+ iter_dist         118
+ iter_dist         119
+ iter_dist         120
+ iter_dist         121
+ iter_dist         122
+ iter_dist         123
+ iter_dist         124
+ iter_dist         125
+ iter_dist         126
+ iter_dist         127
+ iter_dist         128
+ iter_dist         129
+ iter_dist         130
+ iter_dist         131
+ iter_dist         132
+ iter_dist         133
+ iter_dist         134
+ iter_dist         135
+ iter_dist         136
+ iter_dist         137
+ iter_dist         138
+ iter_dist         139
+ iter_dist         140
+ iter_dist         141
+ iter_dist         142
+ iter_dist         143
+ iter_dist         144
+ iter_dist         145
+ iter_dist         146
+ iter_dist         147
+ iter_dist         148
+ iter_dist         149
+ iter_dist         150
+ iter_dist         151
+ iter_dist         152
+ iter_dist         153
+ iter_dist         154
+ iter_dist         155
+ iter_dist         156
+ iter_dist         157
+ iter_dist         158
+ iter_dist         159
+ iter_dist         160
+ iter_dist         161
+ iter_dist         162
+ iter_dist         163
+ iter_dist         164
+ iter_dist         165
+ iter_dist         166
+ iter_dist         167
+ iter_dist         168
+ iter_dist         169
+ iter_dist         170
+ iter_dist         171
+ iter_dist         172
+ iter_dist         173
+ iter_dist         174
+ iter_dist         175
+ iter_dist         176
+ iter_dist         177
+ iter_dist         178
+ iter_dist         179
+ iter_dist         180
+ iter_dist         181
+ iter_dist         182
+ iter_dist         183
+ iter_dist         184
+ iter_dist         185
+ iter_dist         186
+ iter_dist         187
+ iter_dist         188
+ iter_dist         189
+ iter_dist         190
+ iter_dist         191
+ iter_dist         192
+ iter_dist         193
+ iter_dist         194
+ iter_dist         195
+ iter_dist         196
+ iter_dist         197
+ iter_dist         198
+ iter_dist         199
+ iter_dist         200
+ iter_dist         201
+ iter_dist         202
+ iter_dist         203
+ iter_dist         204
+ iter_dist         205
+ iter_dist         206
+ iter_dist         207
+ iter_dist         208
+ iter_dist         209
+ iter_dist         210
+ iter_dist         211
+ iter_dist         212
+ iter_dist         213
+ iter_dist         214
+ iter_dist         215
+ iter_dist         216
+ iter_dist         217
+ iter_dist         218
+ iter_dist         219
+ iter_dist         220
+ iter_dist         221
+ iter_dist         222
+ iter_dist         223
+ iter_dist         224
+ iter_dist         225
+ iter_dist         226
+ iter_dist         227
+ iter_dist         228
+ iter_dist         229
+ iter_dist         230
+ iter_dist         231
+ iter_dist         232
+ iter_dist         233
+ iter_dist         234
+ iter_dist         235
+ iter_dist         236
+ iter_dist         237
+ iter_dist         238
+ iter_dist         239
+ iter_dist         240
+ iter_dist         241
+ iter_dist         242
+ iter_dist         243
+ iter_dist         244
+ iter_dist         245
+ iter_dist         246
+ iter_dist         247
+ iter_dist         248
+ iter_dist         249
+ iter_dist         250
+ iter_dist         251
+ iter_dist         252
+ iter_dist         253
+ iter_dist         254
+ iter_dist         255
+ iter_dist         256
+ iter_dist         257
+ iter_dist         258
+ iter_dist         259
+ iter_dist         260
+ iter_dist         261
+ iter_dist         262
+ iter_dist         263
+ iter_dist         264
+ iter_dist         265
+ iter_dist         266
+ iter_dist         267
+ iter_dist         268
+ iter_dist         269
+ iter_dist         270
+ iter_dist         271
+ iter_dist         272
+ iter_dist         273
+ iter_dist         274
+ iter_dist         275
+ iter_dist         276
+ iter_dist         277
+ iter_dist         278
+ iter_dist         279
+ iter_dist         280
+ iter_dist         281
+ iter_dist         282
+ iter_dist         283
+ iter_dist         284
+ iter_dist         285
+ iter_dist         286
+ iter_dist         287
+ iter_dist         288
+ iter_dist         289
+ iter_dist         290
+ iter_dist         291
+ iter_dist         292
+ iter_dist         293
+ iter_dist         294
+ iter_dist         295
+ iter_dist         296
+ iter_dist         297
+ iter_dist         298
+ iter_dist         299
+ iter_dist         300
+ iter_dist         301
+ iter_dist         302
+ iter_dist         303
+ iter_dist         304
+ iter_dist         305
+ iter_dist         306
+ iter_dist         307
+ iter_dist         308
+ iter_dist         309
+ iter_dist         310
+ iter_dist         311
+ iter_dist         312
+ iter_dist         313
+ iter_dist         314
+ iter_dist         315
+ iter_dist         316
+ iter_dist         317
+ iter_dist         318
+ iter_dist         319
+ iter_dist         320
+ iter_dist         321
+ iter_dist         322
+ iter_dist         323
+ iter_dist         324
+ iter_dist         325
+ iter_dist         326
+ iter_dist         327
+ iter_dist         328
+ iter_dist         329
+ iter_dist         330
+ iter_dist         331
+ iter_dist         332
+ iter_dist         333
+ iter_dist         334
+ iter_dist         335
+ iter_dist         336
+ iter_dist         337
+ iter_dist         338
+ iter_dist         339
+ iter_dist         340
+ iter_dist         341
+ iter_dist         342
+ iter_dist         343
+ iter_dist         344
+ iter_dist         345
+ iter_dist         346
+ iter_dist         347
+ iter_dist         348
+ iter_dist         349
+ iter_dist         350
+ iter_dist         351
+ iter_dist         352
+ iter_dist         353
+ iter_dist         354
+ iter_dist         355
+ iter_dist         356
+ iter_dist         357
+ iter_dist         358
+ iter_dist         359
+ iter_dist         360
+ iter_dist         361
+ iter_dist         362
+ iter_dist         363
+ iter_dist         364
+ iter_dist         365
+ iter_dist         366
+ iter_dist         367
+ iter_dist         368
+ iter_dist         369
+ iter_dist         370
+ iter_dist         371
+ iter_dist         372
+ iter_dist         373
+ iter_dist         374
+ iter_dist         375
+ iter_dist         376
+ iter_dist         377
+ iter_dist         378
+ iter_dist         379
+ iter_dist         380
+ iter_dist         381
+ iter_dist         382
+ iter_dist         383
+ iter_dist         384
+ iter_dist         385
+ iter_dist         386
+ iter_dist         387
+ iter_dist         388
+ iter_dist         389
+ iter_dist         390
+ iter_dist         391
+ iter_dist         392
+ iter_dist         393
+ iter_dist         394
+ iter_dist         395
+ iter_dist         396
+ iter_dist         397
+ iter_dist         398
+ iter_dist         399
+ iter_dist         400
+ iter_dist         401
+ iter_dist         402
+ iter_dist         403
+ iter_dist         404
+ iter_dist         405
+ iter_dist         406
+ iter_dist         407
+ iter_dist         408
+ iter_dist         409
+ iter_dist         410
+ iter_dist         411
+ iter_dist         412
+ iter_dist         413
+ iter_dist         414
+ iter_dist         415
+ iter_dist         416
+ iter_dist         417
+ iter_dist         418
+ iter_dist         419
+ iter_dist         420
+ iter_dist         421
+ iter_dist         422
+ iter_dist         423
+ iter_dist         424
+ iter_dist         425
+ iter_dist         426
+ iter_dist         427
+ iter_dist         428
+ iter_dist         429
+ iter_dist         430
+ iter_dist         431
+ iter_dist         432
+ iter_dist         433
+ iter_dist         434
+ iter_dist         435
+ iter_dist         436
+ iter_dist         437
+ iter_dist         438
+ iter_dist         439
+ iter_dist         440
+ iter_dist         441
+ iter_dist         442
+ iter_dist         443
+ iter_dist         444
+ iter_dist         445
+ iter_dist         446
+ iter_dist         447
+ iter_dist         448
+ iter_dist         449
+ iter_dist         450
+ iter_dist         451
+ iter_dist         452
+ iter_dist         453
+ iter_dist         454
+ iter_dist         455
+ iter_dist         456
+ iter_dist         457
+ iter_dist         458
+ iter_dist         459
+ iter_dist         460
+ iter_dist         461
+ iter_dist         462
+ iter_dist         463
+ iter_dist         464
+ iter_dist         465
+ iter_dist         466
+ iter_dist         467
+ iter_dist         468
+ iter_dist         469
+ iter_dist         470
+ iter_dist         471
+ iter_dist         472
+ iter_dist         473
+ iter_dist         474
+ iter_dist         475
+ iter_dist         476
+ iter_dist         477
+ iter_dist         478
+ iter_dist         479
+ iter_dist         480
+ iter_dist         481
+ iter_dist         482
+ iter_dist         483
+ iter_dist         484
+ iter_dist         485
+ iter_dist         486
+ iter_dist         487
+ iter_dist         488
+ iter_dist         489
+ iter_dist         490
+ iter_dist         491
+ iter_dist         492
+ iter_dist         493
+ iter_dist         494
+ iter_dist         495
+ iter_dist         496
+ iter_dist         497
+ iter_dist         498
+ iter_dist         499
+ iter_dist         500
+ iter_dist         501
+ iter_dist         502
+ iter_dist         503
+ iter_dist         504
+ iter_dist         505
+ iter_dist         506
+ iter_dist         507
+ iter_dist         508
+ iter_dist         509
+ iter_dist         510
+ iter_dist         511
+ iter_dist         512
+ iter_dist         513
+ iter_dist         514
+ iter_dist         515
+ iter_dist         516
+ iter_dist         517
+ iter_dist         518
+ iter_dist         519
+ iter_dist         520
+ iter_dist         521
+ iter_dist         522
+ iter_dist         523
+ iter_dist         524
+ iter_dist         525
+ iter_dist         526
+ iter_dist         527
+ iter_dist         528
+ iter_dist         529
+ iter_dist         530
+ iter_dist         531
+ iter_dist         532
+ iter_dist         533
+ iter_dist         534
+ iter_dist         535
+ iter_dist         536
+ iter_dist         537
+ iter_dist         538
+ iter_dist         539
+ iter_dist         540
+ iter_dist         541
+ iter_dist         542
+ iter_dist         543
+ iter_dist         544
+ iter_dist         545
+ iter_dist         546
+ iter_dist         547
+ iter_dist         548
+ iter_dist         549
+ iter_dist         550
+ iter_dist         551
+ iter_dist         552
+ iter_dist         553
+ iter_dist         554
+ iter_dist         555
+ iter_dist         556
+ iter_dist         557
+ iter_dist         558
+ iter_dist         559
+ iter_dist         560
+ iter_dist         561
+ iter_dist         562
+ iter_dist         563
+ iter_dist         564
+ iter_dist         565
+ iter_dist         566
+ iter_dist         567
+ iter_dist         568
+ iter_dist         569
+ iter_dist         570
+ iter_dist         571
+ iter_dist         572
+ iter_dist         573
+ iter_dist         574
+ iter_dist         575
+ iter_dist         576
+ iter_dist         577
+ iter_dist         578
+ iter_dist         579
+ iter_dist         580
+ iter_dist         581
+ iter_dist         582
+ iter_dist         583
+ iter_dist         584
+ iter_dist         585
+ iter_dist         586
+ iter_dist         587
+ iter_dist         588
+ iter_dist         589
+ iter_dist         590
+ iter_dist         591
+ iter_dist         592
+ iter_dist         593
+ iter_dist         594
+ iter_dist         595
+ iter_dist         596
+ tot_cap_adjustment_cost/gdp  7.400372002964584E-003
+ tot_binding  0.881392215124434     
+ outliers_30  0.945934722310002     
+ 
+ iter_cal            1  2.122248445656125E-002
+ theta firm_debt/gdp
+     0.4035441     0.4036785     1.8395578     1.8334402
+ psi employment
+     0.7926370     0.7924382     1.0000000     0.9974937
+ alpha labor share
+     0.4462531     0.4464238     0.6452855     0.6477592
+ var_eps std_dev_i_k 
+     0.0058303     0.0058456     0.3370000     0.3282688
+ var_eps std_dev_log_emp_19
+     0.0058303     0.0058456     1.3000000     0.2246570
+ var_iota std_dev_log_emp_0
+     0.3000000     0.3000000     0.9000000     0.0516631
+ k_e firms_5_firms0_5
+    13.4831040    13.4831040     0.1180369     0.0968144
+ f_o entry_rate
+     0.7801890     0.7784608     0.1087989     0.1137331
+ gamma i_k_inaction
+     0.0092661     0.0092661     0.0810000     0.0756549
+ lambda i_k_pos_high_spike
+     1.0800000     1.0800000     0.0180000     0.0284302
+ var_z exit_rate 26+
+     0.0500000     0.0500000     0.0500000     0.0159585
+ mu firms_21_plus
+     0.1866796     0.1866796     0.2315106     0.2410278
+ 
